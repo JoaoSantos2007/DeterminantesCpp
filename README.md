@@ -12,7 +12,7 @@ Este projeto é uma calculadora de determinantes de matriz implementada em C++. 
 ## Como usar
 1. Clone o repositório para o seu computador:
     ```bash
-    git clone https://github.com/seu-usuario/DeterminantesCpp.git
+    git clone https://github.com/JoaoSantos2007/DeterminantesCpp.git
     ```
 
 2. Compile o código-fonte:
